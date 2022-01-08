@@ -73,7 +73,7 @@ const sections: ISection[] = [
 ];
 
 const theme = extendTheme({
-    fonts: { heading: 'Nunito Sans', body: 'Nunito Sans' },
+    fonts: { heading: 'Roboto', body: 'Roboto' },
 });
 
 export const App = () => (
