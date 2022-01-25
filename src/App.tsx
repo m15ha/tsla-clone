@@ -46,7 +46,7 @@ const sections: ISection[] = [
     {
         heading: 'Model X',
         subheading: {
-            text: '1% Company Car Tax.',
+            text: '2% Company Car Tax.',
             link: { text: 'Learn More', to: '' },
         },
         primaryButton: { text: 'custom order', to: '' },
